@@ -1,69 +1,22 @@
 # Alfido Tech Internship
 
-This repository contains the tasks completed as part of the Alfido Tech Internship Program.
-
----
-
-# Tasks
+This repository contains tasks completed during the Alfido Tech Data Science Internship.
 
 ## Task 1: Zomato Restaurant Data Analysis
 
-### Objective
-
-Analyze restaurant and review data to identify insights related to:
-
-* Ratings
-* Popular cuisines
-* Restaurant locations
-* Pricing trends
-* Online ordering behavior
+Performed exploratory data analysis (EDA) on the Zomato dataset to identify insights related to restaurant ratings, cuisines, pricing, locations, and online ordering trends using Python and visualization libraries.
 
 ### Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* WordCloud
-* Jupyter Notebook / Google Colab
+Python, Pandas, NumPy, Matplotlib, Seaborn, WordCloud, Google Colab
 
-### Key Analysis Performed
+### Key Highlights
 
-* Data Cleaning
-* Handling Missing Values
-* Exploratory Data Analysis (EDA)
+* Data Cleaning & EDA
 * Correlation Analysis
-* Visualization and Insights
-
-### Visualizations Included
-
-* Restaurant Ratings Distribution
-* Online Order Analysis
-* Top Cuisines
-* Restaurant Location Hotspots
-* Correlation Heatmap
-* Price vs Rating Analysis
-* Cuisine WordCloud
-
-### Key Findings
-
-* Most restaurants maintain ratings above 3.5.
-* Online ordering is highly common.
-* Popular cuisines dominate customer preferences.
-* Pricing has weak correlation with ratings.
-
-### Recommendations
-
-* Partner with highly rated restaurants.
-* Promote restaurants with online ordering.
-* Focus marketing on restaurant hotspot areas.
-* Build personalized recommendation systems.
-
----
+* Data Visualizations
+* Business Insights & Recommendations
 
 ## Author
 
 Shaik Yasmin
-
-Alfido Tech Data Science Internship
